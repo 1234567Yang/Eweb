@@ -1,0 +1,8 @@
+[总数]
+总数=5
+[1]
+名称=UI进度条
+参数=5
+参名=渐变颜色1|渐变颜色2|当前位置|边框大小|边框颜色
+参类=颜色|颜色|整数型|整数型|颜色
+代码=<style>.g-progress-yhtml {border-radius: 25px;background: linear-gradient(90deg, 【参数1】, 【参数2】 【参数3】%, transparent 0);border: 【参数4】px solid #【参数5】;}</style><div class="g-progress-yhtml" id="【身份】" 【禁止】 style="visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;" onclick="【点击事件】"></div>

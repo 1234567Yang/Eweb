@@ -1,0 +1,1 @@
+Msgbox "助手不存在! 目录:C:\Program Files\Yang\YHTML\helper",vbCtritical,"错误:"
