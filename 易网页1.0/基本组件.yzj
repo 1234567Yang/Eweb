@@ -35,7 +35,7 @@
 参数=4
 参名=类型|默认内容|最小字符数|最大字符数
 参类=选择[text,password,Date,month,datetimelocal,week,time,file,email,color,range,search,radio,checkbox,url,submit|文本型|整数型|整数型
-代码=<input type="【参数1】" minlength="【参数3】" maxlength="【参数4】" placeholder="【参数2】" id="【身份】 " 【禁止】  value="【参数1】" style="font-size:【大小】;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】" onclick="【点击事件】">
+代码=<input type="【参数1】" minlength="【参数3】" maxlength="【参数4】" placeholder="【参数2】" id="【身份】 " 【禁止】  value="【参数2】" style="font-size:【大小】;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】" onclick="【点击事件】">
 [7]
 名称=文本区域框
 参数=2
