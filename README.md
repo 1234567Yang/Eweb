@@ -24,3 +24,29 @@
 
 如果有任何问题请联系我Yang2906455468@gmail.com
 给个Star吧
+
+
+## usage
+
+Visual HTML development in Chinese, you can directly click and drag and drop components, edit component styles in tables, and realize code-free front-end design.
+It supports adjusting the hierarchical relationship, and can realize the order before and after.
+Component self-positioning is supported.
+
+## Coming soon
+
+The default position is fixed, automatic percentage, and supports adding components to switch the size of the drag.
+The Jingyi Forum open source competition should be updated. I beg you all to give me some reasons to live this year (funny).
+
+## BUG
+
+Lots of bugs now.
+For example: the adjustment level cannot be adjusted using CreateWindowEX during editing (the background image will block other images)
+Component properties change inexplicably
+The component will disappear inexplicably (CreateWindowEX succeeds)
+
+Guys, please give me some pointers (by the way)
+
+## Remark
+
+If you have any questions please contact me Yang2906455468@gmail.com
+could you give a star?
