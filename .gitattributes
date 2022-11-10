@@ -1,1 +1,2 @@
-*.e linguist-language=EProgrammingLanguage
+*.e linguist-language="EProgrammingLanguage"
+#不知道为什么没有生效，大佬留个issues？？？
