@@ -1,78 +1,109 @@
 # Eweb
 
+**For English introduction,please slide down**
 ## 用法
 
-中文可视化HTML开发，可以直接点击组件拖放，表格编辑组件样式，并且可以实现无代码化前端设计。
+中文可视化HTML开发（框架友好，可以自己改语言，英语 韩语 日本语 西班牙语 法语 德语 意大利语 越南语...... 只要你有时间，付出精力，会易语言就可以改！）
+可以直接点击组件拖放
+表格编辑组件样式（类似C++ Windows窗口设计）
+
+```diff
+- 实现无代码化前端设计，零基础做网站不是梦
+- 将来还会支持Bootstrap,省时又美观
++ 
+! 
+# 
+@@ 
+```
+
 支持了调整层次关系，可以实现前后顺序。
 支持了组件自定位。
+把默认参数全部脱胎换骨重构，框架更为完善（名次好的话就更新了）
+**支持了iframe并支持地图标签！可以对接百度或者google地图！**
 
-******************公告-大佬们，这次我真的下血本了，给个好评吧！******************
+**公告-大佬们，这次我真的下血本了，给个好评吧！**
 |
-******************公告-给个好评+点赞+投票吧~******************
+
+**公告-给个好评+点赞+投票吧~**
 |
-******************公告-今年靠着开源大赛活了！******************
+
+**公告-今年靠着开源大赛活了！**
 |
-******************公告-要不然我就闭源卖钱了！******************
+
+**公告-要不然我就闭源卖钱了！**
 |
-******************公告-项目长期维护！大佬们你们的好评呢？******************
-|
+
+**公告-项目长期维护！大佬们你们的好评呢？**
 
 
 ## 即将更新
 
-自定义拖动组件频率，已经支持拖动组件！！！
-精易论坛开源大赛的时候应该还会更新，求求各位给我点今年活着的理由（滑稽）。
+马上支持填表！支持div层次，如果开源名次好的话，支持设置总体高度！
+精易论坛开源大赛现在不断在更新，求求各位给个好评吧！
 
 ## BUG
 
-现在好多BUG。
-比如：调整层次无法在编辑的时候使用CreateWindowEX无法调整层次（背景图片会挡着其它图片）
-组件属性会莫名其妙的改变-已经修复
-组件会莫名其妙的消失（CreateWindowEX成功）
+暂时没有发现BUG，欢迎各位在 issues 里指出！
 
-各位大佬请指点一下（顺便好评一下）
+如果有建议，欢迎指点！
 
 ## 备注
 
 如果有任何问题请联系我Yang2906455468@gmail.com
 给个Star吧
-大佬们你们的好评呢？
+大佬们你们的投票呢？
 
 
-## usage
+## English verson
 
-Visual HTML development in Chinese, you can directly click and drag and drop components, edit component styles in tables, and realize code-free front-end design.
-It supports adjusting the hierarchical relationship, and can realize the order before and after.
+## Usage
+
+Chinese visual HTML development (friendly framework, you can change the language by yourself, English, Korean, Japanese, Spanish, French, German, Italian, Vietnamese... As long as you have time and effort(also easy programming language), you can change the language easily!)
+You can directly click on the component to drag and drop
+Form editing component style (similar to C++ Windows window design)
+
+``` diff
+- Realize code-free front-end design, making a website with zero foundation is not a dream
+- Bootstrap will also be supported in the future, which saves time and looks beautiful
+```
+
+It supports the adjustment of hierarchical relationship, which can realize the order of front and back.
 Component self-positioning is supported.
+Refactor all the default parameters to make the framework more complete (if the ranking is good, it will be updated)
+**Supports iframe and supports map tags! You can connect to Baidu or Google Maps! **
 
-******************** Announcement - Guys, this time I really paid for it, give it a good review! ********************
-|
-********************Announcement-Give a good review+Like+Vote~******************
-|
-******************** Announcement - Live by the Open Source Contest this year! ********************
-|
-******************** Announcement - otherwise I will sell money in closed source! ********************
-|
-********************Announcement-Long-term maintenance of the project! What's your opinion, gentlemen? ********************
+**Announcement-Bosses, this time I really spent my money, please give me a good review! **
 |
 
+**Announcement-Give a good review+like+vote~**
+|
 
-## Coming soon
+**Announcement - This year I am alive by relying on the open source competition! **
+|
 
-Customize the frequency of dragging components, already support dragging components! ! !
-The Jingyi Forum open source competition should be updated. I beg you all to give me some reasons to live this year (funny).
+**Announcement - Otherwise, I will close the source and sell it for money! **
+|
+
+**Announcement - Long-term maintenance of the project! What's your review guys? **
+
+
+## Updating soon
+
+Fill out the form now! Support div level, if the open source ranking is good, support setting the overall height!
+The Jingyi Forum Open Source Contest is constantly being updated, please give us a good review!
 
 ## BUG
 
-Lots of bugs now.
-For example: the adjustment level cannot be adjusted using CreateWindowEX during editing (the background image will block other images)
-Component properties would change inexplicably - fixed
-The component will disappear inexplicably (CreateWindowEX succeeds)
+No bugs have been found yet, welcome to point out in issues!
 
-Guys, please give some pointers (by the way, praise)
+If you have any suggestions, welcome to give pointers!
 
 ## Remark
 
 If you have any questions please contact me Yang2906455468@gmail.com
 give a star
-What's your opinion, gentlemen?
+What's your vote guys?
+
+Thank you!
+
+*This text was translated by Google Translate*
