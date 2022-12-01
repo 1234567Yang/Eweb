@@ -1,6 +1,7 @@
 # Eweb
-
 **For English introduction,please slide down**
+**Para la introducción en español, deslice hacia abajo**
+
 ## 用法
 
 中文可视化HTML开发（框架友好，可以自己改语言，英语 韩语 日本语 西班牙语 法语 德语 意大利语 越南语...... 只要你有时间，付出精力，会易语言就可以改！）
@@ -87,6 +88,55 @@ give a star
 What's your vote guys?
 
 Thank you!
+
+
+## versión en español
+
+## Uso
+
+Desarrollo de HTML visual chino (marco amigable, puede cambiar el idioma usted mismo, inglés, coreano, japonés, español, francés, alemán, italiano, vietnamita ... Siempre que tenga tiempo y esfuerzo (también lenguaje de programación fácil), usted puede cambiar el idioma fácilmente!)
+Puede hacer clic directamente en el componente para arrastrar y soltar
+Estilo de componente de edición de formularios (similar al diseño de ventana de C++ Windows)
+
+``` diferencia
+- Realice un diseño de front-end sin código, hacer un sitio web con base cero no es un sueño
+- Bootstrap también será compatible en el futuro, lo que ahorra tiempo y se ve hermoso
+```
+
+Admite el ajuste de la relación jerárquica, que puede realizar el orden de anverso y reverso.
+
+Se admite el autoposicionamiento de componentes.
+
+Refactorice todos los parámetros predeterminados para que el marco sea más completo (si la clasificación es buena, se actualizará)
+
+**Admite iframe y admite etiquetas de mapas. ¡Puedes conectarte a Baidu o Google Maps! **
+
+
+## Actualizar pronto
+
+¡Llena el formulario ahora! Admite el nivel div, si la clasificación de código abierto es buena, ¡apoya la configuración de la altura general!
+El concurso de código abierto del foro Jingyi se actualiza constantemente, ¡por favor dénos una buena reseña!
+
+## INSECTO
+
+No se han encontrado errores todavía, ¡bienvenido a señalar en los problemas!
+
+Si tiene alguna sugerencia, ¡bienvenido a dar consejos!
+
+## Observación
+
+Si tiene alguna pregunta, comuníquese conmigo Yang2906455468@gmail.com
+dar una estrella
+¿Cuál es su voto chicos?
+
+¡Gracias!
+
+
+
+
+
+
+
 
 *This text was translated by Google Translate*
 
