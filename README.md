@@ -6,32 +6,25 @@
 中文可视化HTML开发（框架友好，可以自己改语言，英语 韩语 日本语 西班牙语 法语 德语 意大利语 越南语...... 只要你有时间，付出精力，会易语言就可以改！）
 可以直接点击组件拖放
 表格编辑组件样式（类似C++ Windows窗口设计）
-
 ```diff
 - 实现无代码化前端设计，零基础做网站不是梦
 - 将来还会支持Bootstrap,省时又美观
-+ 
-! 
-# 
-@@ 
 ```
-
 支持了调整层次关系，可以实现前后顺序。
+
 支持了组件自定位。
+
 把默认参数全部脱胎换骨重构，框架更为完善（名次好的话就更新了）
+
 **支持了iframe并支持地图标签！可以对接百度或者google地图！**
 
 **公告-大佬们，这次我真的下血本了，给个好评吧！**
-|
 
 **公告-给个好评+点赞+投票吧~**
-|
 
 **公告-今年靠着开源大赛活了！**
-|
 
 **公告-要不然我就闭源卖钱了！**
-|
 
 **公告-项目长期维护！大佬们你们的好评呢？**
 
@@ -68,23 +61,12 @@ Form editing component style (similar to C++ Windows window design)
 ```
 
 It supports the adjustment of hierarchical relationship, which can realize the order of front and back.
+
 Component self-positioning is supported.
+
 Refactor all the default parameters to make the framework more complete (if the ranking is good, it will be updated)
+
 **Supports iframe and supports map tags! You can connect to Baidu or Google Maps! **
-
-**Announcement-Bosses, this time I really spent my money, please give me a good review! **
-|
-
-**Announcement-Give a good review+like+vote~**
-|
-
-**Announcement - This year I am alive by relying on the open source competition! **
-|
-
-**Announcement - Otherwise, I will close the source and sell it for money! **
-|
-
-**Announcement - Long-term maintenance of the project! What's your review guys? **
 
 
 ## Updating soon
@@ -107,3 +89,14 @@ What's your vote guys?
 Thank you!
 
 *This text was translated by Google Translate*
+
+
+
+
+```diff
+- 
++ 
+! 
+# 
+@@ 
+```
