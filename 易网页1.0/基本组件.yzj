@@ -49,14 +49,14 @@
 参类=文本型|文本型|选择[fade,slide,slidefade,slideup,slidedown,flip,flow,pop,turn,none
 代码=<a id="【身份】" href="【参数1】" 【禁止】 style="font-size:【大小】;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】" data-transition="【参数3】">【参数2】</a>
 [9]
-名称=标准视频框
-参数=28
-参名=视频地址|视频类型|是否能控制|禁止下载|禁止全屏|自动或循环播放|预加载|封面JPG图片|默认静音|开始寻找视频事件|时长变化事件|元数据加载事件|无足够帧播放事件|下载视频事件|可播放事件|可流畅播放事件|开始播放事件|播放暂停事件|即将跳转播放进度事件|跳转播放进度事件|等待数据事件|开始回放事件|播放时间改变事件|播放完成事件|播放错误事件|声音大小改变事件|媒体数据不可用事件|播放速度改变事件
-参类=文本型|选择[MP4,WebM,Ogg|选择[controls,uncontrols|选择[nodownload,download|选择[nofullscreen,ablefullscreen|选择[Autoplay,loop,Autoplay loop,Notautoplay|选择[preload,Notpreload|文本型|选择[Muted,Notmuted|文本型|文本型|文本型|文本型|文本型|文本型|文本型|文本型|文本型|文本型|文本型|文本型|文本型|文本型|文本型|文本型|文本型|文本型|文本型
-代码=<video id="【身份】" 【禁止】 style="font-size:【大小】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】" onclick="【点击事件】"  src="【参数1】" type="video/【参数2】" 【参数3】 poster="【参数8】" controlslist="【参数4】 【参数5】" 【参数6】 【参数7】 【参数9】 loadstart="【参数10】" durationchange="【参数11】" loadedmetadata="【参数12】" loadeddata="【参数13】" progress="【参数14】" canplay="【参数15】" canplaythrough="【参数16】" play="【参数17】" pause="【参数18】" seeking="【参数19】" seeked="【参数20】" waiting="【参数21】" playing="【参数22】" timeupdata="【参数23】" ended="【参数24】" error="【参数25】" volumechange="【参数26】" stalled="【参数27】" ratechange="【参数28】">您的浏览器不支持video标签</video>
-[10]
 名称=超链接下载标签
 参数=3
 参名=网址|提示文本
 参类=文本型|文本型
 代码=<a id="【身份】" href="【参数1】" download="【参数1】" 【禁止】 style="font-size:【大小】;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】">【参数2】</a>
+[10]
+名称=标准视频框
+参数=28
+参名=视频地址|视频类型|是否能控制|禁止下载|禁止全屏|自动或循环播放|预加载|封面JPG图片|默认静音|开始寻找视频事件|时长变化事件|元数据加载事件|无足够帧播放事件|下载视频事件|可播放事件|可流畅播放事件|开始播放事件|播放暂停事件|即将跳转播放进度事件|跳转播放进度事件|等待数据事件|开始回放事件|播放时间改变事件|播放完成事件|播放错误事件|声音大小改变事件|媒体数据不可用事件|播放速度改变事件
+参类=文本型|选择[MP4,WebM,Ogg|选择[controls,uncontrols|选择[nodownload,download|选择[nofullscreen,ablefullscreen|选择[Autoplay,loop,Autoplay loop,Notautoplay|选择[preload,Notpreload|文本型|选择[Muted,Notmuted|文本型|文本型|文本型|文本型|文本型|文本型|文本型|文本型|文本型|文本型|文本型|文本型|文本型|文本型|文本型|文本型|文本型|文本型|文本型
+代码=<video id="【身份】" 【禁止】 style="font-size:【大小】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】" onclick="【点击事件】"  src="【参数1】" type="video/【参数2】" 【参数3】 poster="【参数8】" controlslist="【参数4】 【参数5】" 【参数6】 【参数7】 【参数9】 loadstart="【参数10】" durationchange="【参数11】" loadedmetadata="【参数12】" loadeddata="【参数13】" progress="【参数14】" canplay="【参数15】" canplaythrough="【参数16】" play="【参数17】" pause="【参数18】" seeking="【参数19】" seeked="【参数20】" waiting="【参数21】" playing="【参数22】" timeupdata="【参数23】" ended="【参数24】" error="【参数25】" volumechange="【参数26】" stalled="【参数27】" ratechange="【参数28】">您的浏览器不支持video标签</video>
