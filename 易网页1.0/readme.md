@@ -1,6 +1,9 @@
  ## 常见问题
 <br><br>
-1:读配置项乱码怎么办？
+0: 软件运行就崩溃？
+请把压缩包全部放置于同一个目录！
+<br><br>
+1: 读配置项乱码怎么办？
 <br>
 这是Git的提示，如果易语言读取时候乱码可以自己写一个转换工具，ini配置同理：
 We’ve detected the file encoding as GB18030. When you commit changes we will transcode it to UTF-8.
