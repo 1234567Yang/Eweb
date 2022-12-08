@@ -31,7 +31,7 @@
 参类=整数型|整数型|整数型|整数型|整数型|整数型
 代码=<meter min="【参数1】" max="【参数2】" low="【参数4】" high="【参数5】" optimum="【参数5】" id="【身份】" value="【参数3】" style="font-size:【大小】px;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;">【参数3】%</meter>
 [6]
-名称=编辑框
+名称=编辑输入框
 参数=4
 参名=类型|默认内容|最小字符数|最大字符数
 参类=选择[text,password,Date,month,datetimelocal,week,time,file,email,color,range,search,radio,checkbox,url,submit|文本型|整数型|整数型
