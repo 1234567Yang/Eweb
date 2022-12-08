@@ -5,13 +5,54 @@
 参数=2
 参名=文本内容|提示内容
 参类=文本内容型|文本型
-代码=<abbr style="font-size:【大小】px;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】" onclick="【点击事件】" title="【参数2】">【参数1】</abbr>
+代码=<abbr id="【身份】" style="font-size:【大小】px;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】" onclick="【点击事件】" title="【参数2】">【参数1】</abbr>
 MustBS=true
-
 [2]
 名称=浅蓝信息按钮
 参数=2
 参名=文本信息|是否禁止
 参类=文本型|选择[disabled,abled
-代码=<<button style="font-size:【大小】px;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;" class="btn btn-default 【参数2】" onclick="【点击事件】">【参数1】</button>
+代码=<button id="【身份】" style="font-size:【大小】px;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;" class="btn btn-info 【参数2】" onclick="【点击事件】">【参数1】</button>
+MustBS=true
+[3]
+名称=深蓝原始按钮
+参数=2
+参名=文本信息|是否禁止
+参类=文本型|选择[disabled,abled
+代码=<button id="【身份】" style="font-size:【大小】px;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;" class="btn btn-primary 【参数2】" onclick="【点击事件】">【参数1】</button>
+MustBS=true
+[4]
+名称=浅绿成功按钮
+参数=2
+参名=文本信息|是否禁止
+参类=文本型|选择[disabled,abled
+代码=<button id="【身份】" style="font-size:【大小】px;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;" class="btn btn-success 【参数2】" onclick="【点击事件】">【参数1】</button>
+MustBS=true
+[5]
+名称=橙色警告按钮
+参数=2
+参名=文本信息|是否禁止
+参类=文本型|选择[disabled,abled
+代码=<button id="【身份】" style="font-size:【大小】px;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;" class="btn btn-warning 【参数2】" onclick="【点击事件】">【参数1】</button>
+MustBS=true
+[6]
+名称=红色危险按钮
+参数=2
+参名=文本信息|是否禁止
+参类=文本型|选择[disabled,abled
+代码=<button id="【身份】" style="font-size:【大小】px;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;" class="btn btn-danger 【参数2】" onclick="【点击事件】">【参数1】</button>
+MustBS=true
+[7]
+名称=白色默认按钮
+参数=2
+参名=文本信息|是否禁止
+参类=文本型|选择[disabled,abled
+代码=<button id="【身份】" style="font-size:【大小】px;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;" class="btn btn-default 【参数2】" onclick="【点击事件】">【参数1】</button>
+MustBS=true
+[8]
+名称=引用标签
+参数=2
+参名=引用文本|出处
+参类=文本型|文本型
+代码=<blockquote id="【身份】" onclick="【点击事件】"><p style="font-size:【大小】px;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;">【参数1】</p><small>【参数2】</small></blockquote>
 MustBS=true
