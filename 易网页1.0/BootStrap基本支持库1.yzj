@@ -1,0 +1,17 @@
+[总数]
+总数=1
+[1]
+名称=提示标签
+参数=2
+参名=文本内容|提示内容
+参类=文本内容型|文本型
+代码=<abbr style="font-size:【大小】px;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】" onclick="【点击事件】" title="【参数2】">【参数1】</abbr>
+MustBS=true
+
+[2]
+名称=浅蓝信息按钮
+参数=2
+参名=文本信息|是否禁止
+参类=文本型|选择[disabled,abled
+代码=<<button style="font-size:【大小】px;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;" class="btn btn-default 【参数2】" onclick="【点击事件】">【参数1】</button>
+MustBS=true
