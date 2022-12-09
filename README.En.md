@@ -5,9 +5,9 @@
   </p>
   
   </div>
-  <div class = "language_choose>
-  简体中文介绍 >>>[简体中文](README.md)
-  <p  align="center">If you have another language that you want to added to readme, please click>>></p><a align="center" href="https://github.com/1234567Yang/Eweb/issues">Add another language</a>
+  <div class = "language_choose">
+  [简体中文](README.md)
+  <a align="center" href="https://github.com/1234567Yang/Eweb/issues">Suggest another language</a>
   </div>
   
   
