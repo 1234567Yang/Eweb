@@ -1,4 +1,5 @@
  ## 常见问题
+ For English verson, please slide down.
 <br><br>
 **0: 软件运行就崩溃？**
 <br>
@@ -13,7 +14,7 @@
 <br><br>
 **2：1.3.4版本打不开？**
 <br>
-今天晚上我会排查问题，真源码损坏就/*/*/离谱了
+经过测试源码正常！如果打不开按住Shift再打开试试或者重新下载！
 <br><br>
 **3: 什么时候支持bootstamp和填表？**
 <br>
@@ -38,4 +39,51 @@
 **小知识：右上角点击隐藏窗口，隐藏前会自动询问你是否编译～**
 
 
-**以后我会在bilibili发视频（发不了的话会在YTB)，详细介绍每一个组件。**
+**以后我会在bilibili发视频（发不了的话会在YouTube)，详细介绍每一个组件。**
+
+<br><br>
+# English verson
+<br><br>
+# common problem
+<br><br>
+**0: The software crashes when it runs? **
+<br>
+Please put the compressed package **all** in the same directory!
+<br><br>
+**1: What should I do if the read configuration item is garbled? **
+<br>
+This is a tip from Git. If the easy language reads garbled characters, you can write a conversion tool yourself. The ini configuration is the same:
+**We’ve detected the file encoding as GB18030. When you commit changes we will transcode it to UTF-8.
+We detected that the file encoding is GB18030 . When you submit your changes, we will transcode them to UTF-8. **
+Note: Some people asked me how to convert. After testing, the code conversion of the lean module has garbled characters. It is recommended to convert GB28030 online (I did not find a suitable URL. If anyone can find it, please let me know.
+<br><br>
+**2: Version 1.3.4 cannot be opened? **
+<br>
+After testing the source code is normal! If you can't open it, hold Shift and try to open it again or download it again!
+<br><br>
+**3: When will bootstamp and form filling be supported? **
+<br>
+Filling out the form will be done soon, bookstamp will take a while.
+<br><br>
+**4: How to use it? **
+<br>
+**Actually, this usage is exactly the same as the easy language component~**
+**How to enter? **
+Enter the software, first click on the window on the left to select, and then there is an editing window at the bottom of the screen (on the top of the output), just click it~
+How to choose components?
+Click on the window on the right, there is a super list box, click on the component you want (90% restore easy language component description, convenient~)
+Click once, and then drag the mouse directly on the white baseboard. After the dragging is completed, a component will be added (currently it is directly and automatically positioned fixed, which is very convenient!)
+Click on that component, and you will find that there is information in the property bar on the left, just change the information.
+
+It is also very convenient to modify the background information~ click the background part, the button will appear in the property bar, click to open a notepad, and just follow the prompts to change it.
+
+** How to compile when done? **
+There is a toolbar in the upper left corner, click compile-compile to HTML, if you want to see the code, select special compile-compile into readable HTML code
+Then go to your running directory, there is AutoSave.html, that is the finished product compiled!
+Just click on it to see the effect ~ or open it with Notepad to see the source code.
+**Tips: Click on the hidden window in the upper right corner, and it will automatically ask you whether to compile before hiding~**
+
+
+**In the future, I will post a video on bilibili (if I can’t post it, I will post it on YouTube), introducing each component in detail. **
+<br><br>
+*Translated by google translate*
