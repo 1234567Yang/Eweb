@@ -7,7 +7,7 @@
   </div>
   <div class = "language_choose>
   For English verson, click >>>[English verson](README.En.md)
-  <p  align="center">If you have another language that you want to added to readme, please click>>></p><a align="center" href="https://github.com/1234567Yang/Eweb/issues" target="_blank">
+  <p  align="center">If you have another language that you want to added to readme, please click>>></p><a align="center" href="https://github.com/1234567Yang/Eweb/issues">Add another language</a>
   </div>
 
 ## 用法
