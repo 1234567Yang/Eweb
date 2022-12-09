@@ -1,6 +1,6 @@
 # Eweb
   <p>
-      <img width="850" src="https://github.com/1234567Yang/Eweb/blob/main/%E6%98%93%E7%BD%91%E9%A1%B51.0/photos/LOGO.png">
+      <img position="fixed" width="50%" left="25%" src="https://github.com/1234567Yang/Eweb/blob/main/%E6%98%93%E7%BD%91%E9%A1%B51.0/photos/LOGO.png">
   </p>
 **For English introduction,please slide down**
 
