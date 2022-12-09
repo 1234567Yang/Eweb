@@ -1,3 +1,7 @@
+ ```diff
+- 注意：目前发现编译报错的问题请等待1.3.5版本更新！
+```
+ 
  ## 常见问题
  For English verson, please slide down.
 <br><br>
