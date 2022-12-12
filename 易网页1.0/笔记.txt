@@ -21,3 +21,35 @@ export default function BasicTextFields() {
     </Box>
   );
 }
+
+
+
+
+
+特殊编辑框带一个文本框提示
+.Elem {
+  position: relative;
+}
+
+.Elem label {
+  position: absolute;
+  font-size: 10px;
+  color: blue;
+  left: 4px;
+  top: 2px;
+}
+
+.Elem input {
+  padding-left: 2px;
+  padding-top: 15px;
+  border-radius: 0;
+}
+
+.Elem input:focus {
+  border-radius: 0;
+  border-color: blue;
+}
+<div class="Elem">
+  <label for="name">Name</label>
+  <input id="name" name="name" type="text" placeholder="Type a name" />
+</div>
