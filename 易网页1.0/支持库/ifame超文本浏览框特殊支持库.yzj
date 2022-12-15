@@ -7,7 +7,7 @@
 参类=文本型|整数型|选择[yes,no|文本型
 代码=<iframe id="【身份】" 【禁止】 style="visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;z-index:【层次】;" onclick="【点击事件】" src="【参数1】" onload="【参数4】" frameborder="【参数2】" scrolling="【参数3】">您的浏览器不支持iframe标签。</iframe>
 
-[1]
+[2]
 名称=地图浏览框
 参数=6
 参名=地图提供网址|缩放1-19|地点(中文需转义)|视图模式(卫星选k)|编码|载入完成事件
