@@ -17,8 +17,8 @@ Chinese visual HTML development (friendly framework, you can change the language
 You can directly click on the component to drag and drop
 Form editing component style (similar to C++ Windows window design)
 ``` diff
-- Realize code-free front-end design, making a website with zero foundation is not a dream
-- Bootstrap will also be supported in the future, which saves time and looks beautiful
++ Realize code-free front-end design, making a website with zero foundation is not a dream
++ Now, I enabled the div code.
 ```
 It supports the adjustment of hierarchical relationship, which can realize the order of front and back.
 
@@ -32,8 +32,7 @@ Refactor all the default parameters to make the framework more complete (if the 
 
 ## Updating soon
 
-Fill out the form now! Support div level, if the open source ranking is good, support setting the overall height!
-The Jingyi Forum Open Source Contest is constantly being updated, please give us a good review!
+Some small tools
 
 ## BUG
 Currently discovered BUG is being repaired...
