@@ -7,7 +7,7 @@
 <br><br>
 **0: 软件运行就崩溃？**
 <br>
-请把压缩包**全部**放置于同一个目录！
+请把压缩包**全部**放置于同一个目录！并尝试按住Shift启动！
 <br><br>
 **1: 读配置项乱码怎么办？**
 <br>
@@ -22,11 +22,11 @@
 <br><br>
 **3: 什么时候支持bootstamp和填表？**
 <br>
-填表很快就会完成，bookstamp还需要一段时间。
+目前已经全部支持！！
 <br><br>
 **4: 怎么使用呢？**
 <br>
-**其实这个和易语言组件一模一样的用法的～**
+**其实这个和易语言（C++）组件一模一样的用法的～**
 **怎么进入？**
 进入软件，先点击左边那个窗口选择，然后屏幕有下边（输出上面），有个编辑窗口，点进去就好了～
 怎么选择组件？
@@ -48,11 +48,16 @@
 <br><br>
 # English verson
 <br><br>
+``` diff
++ Update~ Remember to give Star
+```
+ 
 # common problem
+
 <br><br>
 **0: The software crashes when it runs? **
 <br>
-Please put the compressed package **all** in the same directory!
+Please put the compressed package **all** in the same directory! And try holding Shift to boot!
 <br><br>
 **1: What should I do if the read configuration item is garbled? **
 <br>
@@ -67,11 +72,11 @@ After testing the source code is normal! If you can't open it, hold Shift and tr
 <br><br>
 **3: When will bootstamp and form filling be supported? **
 <br>
-Filling out the form will be done soon, bookstamp will take a while.
+All are supported now! !
 <br><br>
 **4: How to use it? **
 <br>
-**Actually, this usage is exactly the same as the easy language component~**
+**In fact, this is exactly the same usage as the Easy Language (C++) component~**
 **How to enter? **
 Enter the software, first click on the window on the left to select, and then there is an editing window at the bottom of the screen (on the top of the output), just click it~
 How to choose components?
@@ -88,6 +93,5 @@ Just click on it to see the effect ~ or open it with Notepad to see the source c
 **Tips: Click on the hidden window in the upper right corner, and it will automatically ask you whether to compile before hiding~**
 
 
-**In the future, I will post a video on bilibili (if I can’t post it, I will post it on YouTube), introducing each component in detail. **
-<br><br>
+**In the future, I will post a video on bilibili (if I can’t post it, it will be on YouTube), introducing each component in detail. **
 *Translated by google translate*
