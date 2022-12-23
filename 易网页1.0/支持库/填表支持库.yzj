@@ -4,7 +4,7 @@
 名称=表单组件
 参数=5
 参名=名字|接收PHP|方法|允许用浏览器保存数据|何处打开填表
-参类=文本型|文本型|选择[get|post|选择[on,off|选择[_blank|_self|_parent|_top
+参类=文本型|文本型|选择[get,post|选择[on,off|选择[_blank,_self,_parent,_top
 代码=<form id="【身份】" name="【参数1】" action="【参数2】" method="【参数3】" autocomplete="【参数4】" target="【参数5】" style="font-size:【大小】px;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】;z-index:【层次】;" onclick="【点击事件】">【DIV插入位置】</form>
 [2]
 名称=填表输入框
