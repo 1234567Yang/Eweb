@@ -50,7 +50,7 @@
 代码=<a id="【身份】" href="【参数1】" 【禁止】 style="font-size:【大小】px;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】;z-index:【层次】;" data-transition="【参数3】">【参数2】【DIV插入位置】</a>
 [9]
 名称=超链接标签
-参数=3
+参数=2
 参名=网址|提示文本
 参类=文本型|文本型
 代码=<a id="【身份】" href="【参数1】" download="【参数1】" 【禁止】 style="font-size:【大小】px;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】;z-index:【层次】;">【参数2】【DIV插入位置】</a>
