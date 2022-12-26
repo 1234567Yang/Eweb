@@ -5,13 +5,13 @@
 参数=4
 参名=链接网址|边框大小|滚动条|载入完成事件
 参类=文本型|整数型|选择[yes,no|文本型
-代码=<iframe id="【身份】" 【禁止】 style="visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;z-index:【层次】;" onclick="【点击事件】" src="【参数1】" onload="【参数4】" frameborder="【参数2】" scrolling="【参数3】">您的浏览器不支持iframe标签。【DIV插入位置】</iframe>
+代码=<iframe class="【种群】" id="【身份】" 【禁止】 style="visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;z-index:【层次】;" onclick="【点击事件】" src="【参数1】" onload="【参数4】" frameborder="【参数2】" scrolling="【参数3】">您的浏览器不支持iframe标签。【DIV插入位置】</iframe>
 
 [2]
 名称=地图浏览框
 参数=6
 参名=地图提供网址|缩放1-19|地点(中文需转义)|视图模式(卫星选k)|编码|载入完成事件
 参类=选择[map.google.com/maps,map.baidu.com/|整数型|文本型|选择[k, |选择[UTF8|文本型
-代码=<iframe 【禁止】 style="visibility:【可视】;left:【左边】;top:【顶边】;width:【宽度】;height:【高度】;position:【绝对】;z-index:【层次】;" src="https://【参数1】?q=【参数3】&t=【参数4】&amp;z=【参数2】&ie=【参数5】&&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" onload="【参数6】">您的浏览器不支持iframe标签。【DIV插入位置】</iframe>
+代码=<iframe class="【种群】" 【禁止】 style="visibility:【可视】;left:【左边】;top:【顶边】;width:【宽度】;height:【高度】;position:【绝对】;z-index:【层次】;" src="https://【参数1】?q=【参数3】&t=【参数4】&amp;z=【参数2】&ie=【参数5】&&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" onload="【参数6】">您的浏览器不支持iframe标签。【DIV插入位置】</iframe>
 read="地图技术由https://www.embedgooglemap.net/提供"
 read2=地点和缩放仅支持谷歌地图！
