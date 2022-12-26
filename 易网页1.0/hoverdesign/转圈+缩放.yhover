@@ -1,0 +1,5 @@
+[代码]
+参数=1
+参名=缩放倍数
+参类=文本型
+代码=<style>#【身份】{transition:All 【时间】s ease-in-out;vertical-align:middle;}#【身份】:hover {-webkit-transform: rotate(360deg);scale: 【参数1】;}</style>

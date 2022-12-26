@@ -1,0 +1,5 @@
+[代码]
+参数=3
+参名=模糊程度|模糊半径|模糊颜色
+参类=文本型|文本型|颜色
+代码=<style>#【身份】{transition: all 【时间】s ease 0s;}#【身份】:hover{-webkit-box-shadow: 0px 0px 【参数1】px 【参数2】px 【参数3】;}</style>

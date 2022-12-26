@@ -1,0 +1,5 @@
+[代码]
+参数=0
+参名=
+参类=
+代码=<style>#【身份】:hover {border-bottom-right-radius:50px;border-top-left-radius:50px;border-bottom-left-radius:10px;border-top-right-radius:10px;}#【身份】{-webkit-transition: border-radius 【时间】s;}</style>

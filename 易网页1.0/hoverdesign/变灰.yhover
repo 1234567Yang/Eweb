@@ -1,0 +1,5 @@
+[代码]
+参数=1
+参名=百分之
+参类=文本型
+代码=<style>#【身份】{transition: all 【时间】s ease 0s;}#【身份】:hover {filter:grayscale(【参数1】%);}</style>
