@@ -5,82 +5,82 @@
 参数=2
 参名=文本内容|提示内容
 参类=文本内容型|文本型
-代码=<abbr id="【身份】" style="font-size:【大小】px;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】;z-index:【层次】;" onclick="【点击事件】" title="【参数2】">【参数1】【DIV插入位置】</abbr>
+代码=<abbr class="【种群】" id="【身份】" style="font-size:【大小】px;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】;z-index:【层次】;" onclick="【点击事件】" title="【参数2】">【参数1】【DIV插入位置】</abbr>
 MustBS=true
 [2]
 名称=浅蓝信息按钮
 参数=2
 参名=文本信息|是否禁止
 参类=文本型|选择[disabled,abled
-代码=<button id="【身份】" style="font-size:【大小】px;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;z-index:【层次】;" class="btn btn-info 【参数2】" onclick="【点击事件】">【参数1】【DIV插入位置】</button>
+代码=<button class="【种群】" id="【身份】" style="font-size:【大小】px;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;z-index:【层次】;" class="btn btn-info 【参数2】" onclick="【点击事件】">【参数1】【DIV插入位置】</button>
 MustBS=true
 [3]
 名称=深蓝原始按钮
 参数=2
 参名=文本信息|是否禁止
 参类=文本型|选择[disabled,abled
-代码=<button id="【身份】" style="font-size:【大小】px;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;z-index:【层次】;" class="btn btn-primary 【参数2】" onclick="【点击事件】">【参数1】【DIV插入位置】</button>
+代码=<button class="【种群】" id="【身份】" style="font-size:【大小】px;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;z-index:【层次】;" class="btn btn-primary 【参数2】" onclick="【点击事件】">【参数1】【DIV插入位置】</button>
 MustBS=true
 [4]
 名称=浅绿成功按钮
 参数=2
 参名=文本信息|是否禁止
 参类=文本型|选择[disabled,abled
-代码=<button id="【身份】" style="font-size:【大小】px;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;z-index:【层次】;" class="btn btn-success 【参数2】" onclick="【点击事件】">【参数1】【DIV插入位置】</button>
+代码=<button class="【种群】" id="【身份】" style="font-size:【大小】px;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;z-index:【层次】;" class="btn btn-success 【参数2】" onclick="【点击事件】">【参数1】【DIV插入位置】</button>
 MustBS=true
 [5]
 名称=橙色警告按钮
 参数=2
 参名=文本信息|是否禁止
 参类=文本型|选择[disabled,abled
-代码=<button id="【身份】" style="font-size:【大小】px;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;z-index:【层次】;" class="btn btn-warning 【参数2】" onclick="【点击事件】">【参数1】【DIV插入位置】</button>
+代码=<button class="【种群】" id="【身份】" style="font-size:【大小】px;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;z-index:【层次】;" class="btn btn-warning 【参数2】" onclick="【点击事件】">【参数1】【DIV插入位置】</button>
 MustBS=true
 [6]
 名称=红色危险按钮
 参数=2
 参名=文本信息|是否禁止
 参类=文本型|选择[disabled,abled
-代码=<button id="【身份】" style="font-size:【大小】px;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;z-index:【层次】;" class="btn btn-danger 【参数2】" onclick="【点击事件】">【参数1】【DIV插入位置】</button>
+代码=<button class="【种群】" id="【身份】" style="font-size:【大小】px;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;z-index:【层次】;" class="btn btn-danger 【参数2】" onclick="【点击事件】">【参数1】【DIV插入位置】</button>
 MustBS=true
 [7]
 名称=白色默认按钮
 参数=2
 参名=文本信息|是否禁止
 参类=文本型|选择[disabled,abled
-代码=<button id="【身份】" style="font-size:【大小】px;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;z-index:【层次】;" class="btn btn-default 【参数2】" onclick="【点击事件】">【参数1】【DIV插入位置】</button>
+代码=<button class="【种群】" id="【身份】" style="font-size:【大小】px;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;z-index:【层次】;" class="btn btn-default 【参数2】" onclick="【点击事件】">【参数1】【DIV插入位置】</button>
 MustBS=true
 [8]
 名称=引用标签
 参数=2
 参名=引用文本|出处
 参类=文本型|文本型
-代码=<blockquote id="【身份】" onclick="【点击事件】"><p style="font-size:【大小】px;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;z-index:【层次】;">【参数1】</p><small>【参数2】</small>【DIV插入位置】</blockquote>
+代码=<blockquote class="【种群】" id="【身份】" onclick="【点击事件】"  style="font-size:【大小】px;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;z-index:【层次】;"><p>【参数1】</p><small>【参数2】</small>【DIV插入位置】</blockquote>
 MustBS=true
 [9]
 名称=花样图片框
 参数=4
 参名=图片连接|文本提示|透明度(0-1)|样式
 参类=文本型|文本型|整数型|选择[img-rounded,img-circle,img-thumbnail
-代码=<img id="【身份】" src="【参数1】" alt="【参数2】" style="font-size:【大小】px;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】;opacity:【参数3】;z-index:【层次】;" onclick="【点击事件】" class="【参数4】"><div>【DIV插入位置】</div>
+代码=<img class="【种群】" id="【身份】" src="【参数1】" alt="【参数2】" style="font-size:【大小】px;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】;opacity:【参数3】;z-index:【层次】;" onclick="【点击事件】" class="【参数4】"><div>【DIV插入位置】</div>
 MustBS=true
 [10]
 名称=右输入组框
 参数=3
 参名=类型|提示文本|默认内容
 参类=选择[text,password,Date,month,datetimelocal,week,time,file,email,color,range,search,radio,checkbox,url,submit|文本型|文本型
-代码=<div class="input-group" style="z-index:【层次】;"><input type="【参数1】" class="form-control" placeholder="【参数3】"><span class="input-group-addon">【参数2】</span>【DIV插入位置】</div>
+代码=<div class="【种群】" class="input-group" style="z-index:【层次】;"><input type="【参数1】" class="form-control" placeholder="【参数3】"><span class="input-group-addon">【参数2】</span>【DIV插入位置】</div>
 MustBS=true
 [11]
 名称=左输入组框
 参数=3
 参名=类型|提示文本|默认内容
 参类=选择[text,password,Date,month,datetimelocal,week,time,file,email,color,range,search,radio,checkbox,url,submit|文本型|文本型
-代码=<div class="input-group" style="z-index:【层次】;"><span class="input-group-addon">【参数2】</span><input type="【参数1】" class="form-control" placeholder="【参数3】">【DIV插入位置】</div>
+代码=<div class="【种群】" class="input-group" style="z-index:【层次】;"><span class="input-group-addon">【参数2】</span><input type="【参数1】" class="form-control" placeholder="【参数3】">【DIV插入位置】</div>
 MustBS=true
 [11]
 名称=左右输入组框
 参数=4
 参名=类型|左提示文本|右提示文本|默认内容
 参类=选择[text,password,Date,month,datetimelocal,week,time,file,email,color,range,search,radio,checkbox,url,submit|文本型|文本型
-代码=<div class="input-group" style="z-index:【层次】;"><span class="input-group-addon">【参数2】</span><input type="【参数1】" class="form-control" placeholder="【参数4】"><span class="input-group-addon">【参数3】</span>【DIV插入位置】</div>
+代码=<div class="【种群】" class="input-group" style="z-index:【层次】;"><span class="input-group-addon">【参数2】</span><input type="【参数1】" class="form-control" placeholder="【参数4】"><span class="input-group-addon">【参数3】</span>【DIV插入位置】</div>
 MustBS=true
