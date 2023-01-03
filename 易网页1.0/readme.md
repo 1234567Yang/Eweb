@@ -15,6 +15,8 @@
 **We’ve detected the file encoding as GB18030. When you commit changes we will transcode it to UTF-8.
 我们检测到文件编码为 GB18030 。 当您提交更改时，我们会将其转码为 UTF-8 。**
 注意：有的人问我怎么转换，经过测试精益模块的编码转换有乱码，建议用在线转GB28030（未找到合适网址，如果有人能找到请告诉我
+
+目前已经内部代码解决了
 <br><br>
 **2：1.3.4版本打不开？**
 <br>
