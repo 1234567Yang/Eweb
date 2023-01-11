@@ -22,9 +22,9 @@
 <br>
 经过测试源码正常！如果打不开按住Shift再打开试试或者重新下载！
 <br><br>
-**3: 什么时候支持bootstamp和填表？**
+**3: 什么时候支持bootstrap和填表？**
 <br>
-目前已经全部支持！！
+目前已经全部支持！！正在制作表格
 <br><br>
 **4: 怎么使用呢？**
 <br>
@@ -72,7 +72,7 @@ Note: Some people asked me how to convert. After testing, the code conversion of
 <br>
 After testing the source code is normal! If you can't open it, hold Shift and try to open it again or download it again!
 <br><br>
-**3: When will bootstamp and form filling be supported? **
+**3: When will bootstrap and form filling be supported? **
 <br>
 All are supported now! !
 <br><br>
