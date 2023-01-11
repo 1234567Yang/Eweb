@@ -1,4 +1,4 @@
-#Eweb
+# Eweb
    <div align="center">
    <p>
        <img width="50%" src="https://github.com/1234567Yang/Eweb/blob/main/%E6%98%93%E7%BD%91%E9%A1%B51.0/photos/LOGO.png">
@@ -37,7 +37,9 @@ Refactored all the default parameters, the framework is more perfect
 **How to use it? **
 <br>
 **Actually, this usage is exactly the same as that of Easy Language (VB) components~**
+<br><br>
 **How to enter? **
+<br>
 Enter the software, first click on the window on the left to select, and then there is an editing window at the bottom of the screen (on the top of the output), just click it~
 How to choose components?
 Click on the window on the right, there is a super list box, click on the component you want (90% restore easy language component description, convenient~)
