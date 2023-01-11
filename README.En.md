@@ -6,7 +6,7 @@
   
    </div>
    <div class = "language_choose">
-     [English verson](//README.En.md)
+     [中文](/README.md)
    <a align="center" href="https://github.com/1234567Yang/Eweb/issues">Suggest another language</a>
    </div>
 Official website (Website): https://1234567yang.github.io/EWeb.github.io/
