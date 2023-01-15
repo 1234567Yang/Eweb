@@ -5,82 +5,82 @@
 参数=5
 参名=名字|接收PHP|方法|允许用浏览器保存数据|何处打开填表
 参类=文本型|文本型|选择[get,post|选择[on,off|选择[_blank,_self,_parent,_top
-代码=<form class="【种群】" id="【身份】" name="【参数1】" action="【参数2】" method="【参数3】" autocomplete="【参数4】" target="【参数5】" style="font-size:【大小】px;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】;z-index:【层次】;" onclick="【点击事件】">【DIV插入位置】</form>
+代码=<form class="【种群】" id="【身份】" name="【参数1】" action="【参数2】" method="【参数3】" autocomplete="【参数4】" target="【参数5】" style="【默认样式代码信息】;z-index:【层次】;" onclick="【点击事件】">【DIV插入位置】</form>
 [2]
 名称=填表输入框
 参数=6
 参名=默认提示内容|默认内容|最小字符数|最大字符数|名字|是否要求
 参类=文本型|文本型|整数型|整数型|文本型|选择[required, 
-代码=<input class="【种群】" name="【参数5】" 【参数6】 type="text" vaule="【参数2】" minlength="【参数3】" maxlength="【参数4】" placeholder="【参数1】" id="【身份】 " 【禁止】 style="font-size:【大小】px;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div>
+代码=<input class="【种群】" name="【参数5】" 【参数6】 type="text" vaule="【参数2】" minlength="【参数3】" maxlength="【参数4】" placeholder="【参数1】" id="【身份】 " 【禁止】 style="【默认样式代码信息】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div>
 [3]
 名称=填表密码框
 参数=6
 参名=默认提示内容|默认内容|最小字符数|最大字符数|名字|是否要求
 参类=文本型|文本型|整数型|整数型|文本型|选择[required, 
-代码=<input class="【种群】" name="【参数5】" 【参数6】 type="password" value="【参数2】" minlength="【参数3】" maxlength="【参数4】" placeholder="【参数1】" id="【身份】 " 【禁止】 style="font-size:【大小】px;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div>
+代码=<input class="【种群】" name="【参数5】" 【参数6】 type="password" value="【参数2】" minlength="【参数3】" maxlength="【参数4】" placeholder="【参数1】" id="【身份】 " 【禁止】 style="【默认样式代码信息】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div>
 [4]
 名称=填表日期框
 参数=5
 参名=默认日期(-分隔)|最小日期|最大日期|名字|是否要求
 参类=文本型|文本型|文本型|文本型|选择[required, 
-代码=<input class="【种群】" name="【参数4】" 【参数5】 type="date" min="【参数2】" max="【参数3】" value="【参数1】" id="【身份】 " 【禁止】 style="font-size:【大小】px;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div>
+代码=<input class="【种群】" name="【参数4】" 【参数5】 type="date" min="【参数2】" max="【参数3】" value="【参数1】" id="【身份】 " 【禁止】 style="【默认样式代码信息】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div>
 [5]
 名称=填表时间框
 参数=5
 参名=默认时间(例:10:30)|最小时间|最大时间|名字|是否要求
 参类=文本型|文本型|文本型|文本型|选择[required, 
-代码=<input class="【种群】" name="【参数4】" 【参数6】 type="time" min="【参数2】" max="【参数3】" value="【参数1】" id="【身份】 " 【禁止】 style="font-size:【大小】px;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div>
+代码=<input class="【种群】" name="【参数4】" 【参数6】 type="time" min="【参数2】" max="【参数3】" value="【参数1】" id="【身份】 " 【禁止】 style="【默认样式代码信息】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div>
 [6]
 名称=填表文件框
 参数=3
 参名=限制类型(,隔开）|名字|是否要求
 参类=文本型|文本型|选择[required, 
-代码=<input class="【种群】" name="【参数2】" 【参数6】 type="file" accept="【参数1】" id="【身份】 " 【禁止】 style="font-size:【大小】px;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div>
+代码=<input class="【种群】" name="【参数2】" 【参数6】 type="file" accept="【参数1】" id="【身份】 " 【禁止】 style="【默认样式代码信息】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div>
 [7]
 名称=填表邮箱框
 参数=4
 参名=默认提示内容|默认内容|名字|是否要求
 参类=文本型|文本型|文本型|选择[required, 
-代码=<input class="【种群】" name="【参数3】" 【参数6】 type="email" placeholder="【参数1】" value="【参数2】" id="【身份】 " 【禁止】 style="font-size:【大小】px;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div>
+代码=<input class="【种群】" name="【参数3】" 【参数6】 type="email" placeholder="【参数1】" value="【参数2】" id="【身份】 " 【禁止】 style="【默认样式代码信息】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div>
 [8]
 名称=填表颜色框
 参数=3
 参名=当前颜色|名字|是否要求
 参类=纯颜色|文本型|选择[required, 
-代码=<input class="【种群】" name="【参数2】" 【参数3】 type="color" value="【参数1】" id="【身份】 " 【禁止】 style="font-size:【大小】px;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div>
+代码=<input class="【种群】" name="【参数2】" 【参数3】 type="color" value="【参数1】" id="【身份】 " 【禁止】 style="【默认样式代码信息】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div>
 [9]
 名称=填表滑动框
 参数=6
 参名=默认内容|最小位置|最大位置|当前位置|名字|是否要求
 参类=文本型|整数型|整数型|整数型|文本型|选择[required, 
-代码=<input class="【种群】" name="【参数5】" 【参数6】 type="range" min="【参数2】" max="【参数3】" step="【参数4】" placeholder="【参数1】" id="【身份】 " 【禁止】  value="【参数2】" style="font-size:【大小】px;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div>
+代码=<input class="【种群】" name="【参数5】" 【参数6】 type="range" min="【参数2】" max="【参数3】" step="【参数4】" placeholder="【参数1】" id="【身份】 " 【禁止】  value="【参数2】" style="【默认样式代码信息】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div>
 [10]
 名称=填表搜索框
 参数=3
 参名=默认内容|名字|是否要求
 参类=文本型|文本型|选择[required, 
-代码=<input class="【种群】" name="【参数2】" 【参数3】 type="search" placeholder="【参数1】" id="【身份】 " 【禁止】  value="【参数2】" style="font-size:【大小】px;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div>
+代码=<input class="【种群】" name="【参数2】" 【参数3】 type="search" placeholder="【参数1】" id="【身份】 " 【禁止】  value="【参数2】" style="【默认样式代码信息】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div>
 [11]
 名称=填表单选框
 参数=4
 参名=描述(请添加ID再试)|是否选择|名字|是否要求
 参类=文本型|选择[checked, |文本型|选择[required, 
-代码=<input class="【种群】" name="【参数3】" 【参数4】 type="radio" id="【身份】 " 【禁止】 【参数2】 style="font-size:【大小】px;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div><label for="【身份】">【参数1】</label>
+代码=<input class="【种群】" name="【参数3】" 【参数4】 type="radio" id="【身份】 " 【禁止】 【参数2】 style="【默认样式代码信息】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div><label for="【身份】">【参数1】</label>
 [12]
 名称=填表复选框
 参数=3
 参名=描述(请添加ID再试)|是否选择|名字|是否要求
 参类=文本型|选择[checked, |文本型|选择[required, 
-代码=<input class="【种群】" name="【参数3】" 【参数4】 type="checkbox" id="【身份】 " 【禁止】 【参数2】 style="font-size:【大小】px;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div><label for="【身份】">【参数1】</label>
+代码=<input class="【种群】" name="【参数3】" 【参数4】 type="checkbox" id="【身份】 " 【禁止】 【参数2】 style="【默认样式代码信息】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div><label for="【身份】">【参数1】</label>
 [13]
 名称=填表地址框
 参数=4
 参名=默认地址|正则过滤|名字|是否要求
 参类=文本型|文本型|文本型|选择[required, 
-代码=<input class="【种群】" name="【参数3】" 【参数4】 type="url" placeholder="【参数1】" pattern="【参数2】" id="【身份】 " 【禁止】 style="font-size:【大小】px;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div>
+代码=<input class="【种群】" name="【参数3】" 【参数4】 type="url" placeholder="【参数1】" pattern="【参数2】" id="【身份】 " 【禁止】 style="【默认样式代码信息】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div>
 [14]
 名称=填表提交按钮
 参数=2
 参名=文本描述|名字
 参类=文本型|文本型
-代码=<input class="【种群】" name="【参数2】" type="submit" value="【参数1】" id="【身份】 " 【禁止】 style="font-size:【大小】px;color:【颜色】;background:【背景颜色】;visibility:【可视】;left:【左边】;top:【顶边】;height:【高度】;width:【宽度】;position:【绝对】;text-align:【对齐方式】;word-break:【自动换行】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div>
+代码=<input class="【种群】" name="【参数2】" type="submit" value="【参数1】" id="【身份】 " 【禁止】 style="【默认样式代码信息】;z-index:【层次】;" onclick="【点击事件】"><div>【DIV插入位置】</div>
