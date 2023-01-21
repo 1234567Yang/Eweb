@@ -15,7 +15,7 @@
 read="地图技术由https://www.embedgooglemap.net/提供"
 read2=地点和缩放仅支持谷歌地图！
 [3]
-名称=综合嵌入框
+名称=综合浏览框
 参数=2
 参名=数据类型|数据链接
 参类=选择[video/webm,application/pdf,text/html|文本型
