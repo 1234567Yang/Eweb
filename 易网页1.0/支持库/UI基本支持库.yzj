@@ -17,7 +17,7 @@
 参数=7
 参名=文本内容|圆角大小|背景渐变角度|背景渐变1|背景渐变2|背景渐变3|整体倾斜角度
 参类=文本内容型|整数型|整数型|颜色|颜色|颜色|整数型
-代码=<p class="【种群】" id="【身份】" 【禁止】 style="【默认样式代码信息】;【扩展样式代码信息】;border-radius:【参数2】px;background-image:linear-gradient(【参数3】deg,【参数4】,【参数5】,【参数6】);transform:rotate(【参数18】deg);z-index:【层次】;">【参数1】</p>
+代码=<p class="【种群】" id="【身份】" 【禁止】 style="【默认样式代码信息】;【扩展样式代码信息】;border-radius:【参数2】px;background-image:linear-gradient(【参数3】deg,【参数4】,【参数5】,【参数6】);transform:rotate(【参数7】deg);z-index:【层次】;">【参数1】</p>
 [4]
 名称=UI灯笼
 参数=1
