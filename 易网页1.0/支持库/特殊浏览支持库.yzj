@@ -19,5 +19,5 @@ read2=地点和缩放仅支持谷歌地图！
 参数=2
 参名=数据类型|数据链接
 参类=选择[video/webm,application/pdf,text/html|文本型
-代码=<embed class="【种群】" id="【身份】" 【禁止】 style="【默认样式代码信息】;【扩展样式代码信息】;z-index:【层次】;" type="【参数1】" src="【参数2】" width="400" height="300">
-read="名字起的不好，如果有啥好的建议请提出来"
+代码=<embed class="【种群】" id="【身份】" 【禁止】 style="【默认样式代码信息】;【扩展样式代码信息】;z-index:【层次】;" type="【参数1】" src="【参数2】">
+read="名字起的不好，如果有啥好的建议请提出来～"
