@@ -7,6 +7,7 @@
   </div>
   <div class = "language_choose">
     [English verson](/README.En.md)
+    <br>
   <a align="center" href="https://github.com/1234567Yang/Eweb/issues">Suggest another language</a>
   </div>
 官网(Website)：https://1234567yang.github.io/EWeb.github.io/
@@ -15,7 +16,10 @@
 
 ```diff
 + 精易论坛开源大赛第7名
-! 有啥问题提出来好不好
++ 如果是想学HTML的话可以用release里面的，我有空会把最新版的放进去。
++ 如果会易语言编译的话（一点就够了），可以编译一份最新版用（注：由于Github不允许上传Webkit的DLL，需要自己到精易论坛下载！或者下载release里面的）
++ 请不要随便改动目录结构，主程序放置于主文件夹里面，否则将导致无法读入支持库等问题。
+! 有啥问题提出来好不好，如果想贡献，PR没啥问题就合并。现在需要大量的组件支持库。
 ```
 
 
