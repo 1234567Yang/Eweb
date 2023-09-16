@@ -6,7 +6,7 @@
   
   </div>
 
-[English verson](/README.En.md)
+[English version](/README.En.md)
     
   <a align="center" href="https://github.com/1234567Yang/Eweb/issues">Suggest another language</a>
   </div>
